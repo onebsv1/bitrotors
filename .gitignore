@@ -1,0 +1,4 @@
+zig-cache/*
+src/zig-cache/*
+main*
+.vscode/*
